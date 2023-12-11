@@ -1,2 +1,6 @@
-# Appium-Framework
-Appium Framework for Android app Automation
+# appium-practice
+
+### Appium Framework for Android app Automation
+
+**moduleName** values (TestNG XML file):
+- Youtube
